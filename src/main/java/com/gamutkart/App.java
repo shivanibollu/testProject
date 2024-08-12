@@ -4,13 +4,13 @@ public class App
 {
     public static void main( String[] args )
     {
-		int i;
 		int j;
+		int k;
 
-		for(i=0;i<30;i++)
+		for(j=0;j<30;j++)
 		{
-			i += 5;
-			i += 5;
+			j += 5;
+			j += 5;
    		}
 	 }
 }
